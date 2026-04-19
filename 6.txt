@@ -1,0 +1,4 @@
+hi this is kamal
+
+  function name(kamal);
+  def function(name);
